@@ -8,7 +8,7 @@ Anyone can contribute by adding questions they know, or by answering existing on
 ## 📂 Structure
 - `questions/` → contains all topics
   - `questions/coding/`
-  - `questions/python/`
+  - `questions/system-design/`
   - `questions/dbms/`
   - ext...
 
